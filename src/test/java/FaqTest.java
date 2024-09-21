@@ -19,7 +19,7 @@ import static org.junit.Assert.assertEquals;
 public class FaqTest {
 
     private WebDriver driver;
-    private MainPage mainPage;
+    private PageOrder pageOrder;
     private final String question;
     private final String expectedAnswer;
 
